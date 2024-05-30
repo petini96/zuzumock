@@ -1,0 +1,24 @@
+{
+  "name": "@petini96/zuzumock",
+  "version": "1.0.0",
+  "description": "An package for mock",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petini96/zuzumock.git"
+  },
+  "keywords": [
+    "mock"
+  ],
+  "author": "Vinícius dos Santos Petini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petini96/zuzumock/issues"
+  },
+  "homepage": "https://github.com/petini96/zuzumock#readme"
+}
